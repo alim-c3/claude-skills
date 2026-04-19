@@ -1,0 +1,8 @@
+{
+  "name": "react-components",
+  "description": "Converts Stitch designs into modular Vite and React components",
+  "author": {
+    "name": "Alireza Rezvani",
+    "email": "alim@c3inspire.com"
+  }
+}

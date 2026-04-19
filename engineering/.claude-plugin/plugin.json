@@ -1,0 +1,8 @@
+{
+  "name": "engineering",
+  "description": "25 advanced engineering skills: agent design, RAG, MCP, CI/CD, observability, security, platform ops",
+  "author": {
+    "name": "Alireza Rezvani",
+    "email": "alim@c3inspire.com"
+  }
+}

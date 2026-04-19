@@ -1,0 +1,8 @@
+{
+  "name": "stitch-loop",
+  "description": "Iteratively build websites using Stitch with autonomous baton-passing loop pattern",
+  "author": {
+    "name": "Alireza Rezvani",
+    "email": "alim@c3inspire.com"
+  }
+}

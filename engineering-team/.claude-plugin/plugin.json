@@ -1,0 +1,8 @@
+{
+  "name": "engineering-team",
+  "description": "23 engineering team skills: frontend, backend, QA, DevOps, security, AI/ML, data engineering",
+  "author": {
+    "name": "Alireza Rezvani",
+    "email": "alim@c3inspire.com"
+  }
+}
